@@ -27,7 +27,13 @@ I build real-world projects with clean architecture, secure smart contracts, and
 Solidity    Java    Python    Web3.js    Hardhat    Blockchain
 SQL         REST APIs     Git & GitHub
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aayush10016&show_icons=true&theme=dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush10016&layout=compact&theme=dark" /> </p>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush10016&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush10016&layout=compact&theme=dark" />
+</p>
+
 
 🔥 Currently Working On
 
