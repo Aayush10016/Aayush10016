@@ -77,7 +77,7 @@ I enjoy building secure systems, smart contracts, and efficient backend solution
 ---
 
 ### 🪙 SWAT Coin — Stablecoin  
-🔗 **Repo:** https://github.com/Aayush10016/swat-coin  
+🔗 **Repo:** https://github.com/Aayush10016/P2P-Stablecoin-SWAT
 
 ✔ Fully implemented Solidity Stablecoin  
 ✔ Pegged to 1 USD  
