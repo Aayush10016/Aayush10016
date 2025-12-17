@@ -57,14 +57,6 @@ I enjoy building secure systems, smart contracts, and efficient backend solution
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aayush10016/Aayush10016/output/github-contribution-grid-snake.svg" />
-</p>
-
-
----
-
 ## 🔥 Currently Working On
 
 - 🪙 **SWAT Coin — USD-Pegged Stablecoin**  
