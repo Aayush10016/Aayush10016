@@ -44,15 +44,23 @@ I enjoy building secure systems, smart contracts, and efficient backend solution
 
 ---
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayush10016&show_icons=true&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aayush10016&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush10016&layout=compact&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush10016&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush10016&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aayush10016&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aayush10016&theme=github_dark" />
+</p>
+
 
 
 ---
