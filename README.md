@@ -75,21 +75,24 @@ I enjoy building secure systems, smart contracts, and efficient backend solution
 
 ## 💼 Featured Projects
 
-### 🧪 Medicine Verification System  
-🔗 **Repo:** https://github.com/Aayush10016/Image-Verification-Using-Blockchain  
+### 🎧 HipHopHub — Indian Hip-Hop Discovery Platform  
+🔗 **Repo:** https://github.com/Aayush10016/HipHopHub  
+🌐 **Live:** https://hip-hop-hub.vercel.app
 
-✔ QR-Based blockchain authenticity check  
-✔ Python + JS + Solidity integration  
-✔ Protects against counterfeit medicines  
+✔ Full-stack Java-based Indian Hip-Hop platform built using React, TypeScript, Spring Boot, and SQL  
+✔ Features artist discovery, song browsing, release tracking, hip-hop facts, and interactive music-based games  
+✔ Developed REST APIs, optimized backend performance, and improved artist-song data accuracy  
+✔ Includes leaderboards, dynamic artist pages, and responsive UI/UX design  
 
 ---
 
-### 🪙 SWAT Coin — Stablecoin  
-🔗 **Repo:** [https://github.com/Aayush10016/P2P-Stablecoin-SWAT](https://github.com/Aayush10016/P2P-Stablecoin-SWAT-)
+### 🗳️ Janadesh — Blockchain-Based Voting System  
+🔗 **Repo:** https://github.com/Aayush10016/Janadesh
 
-✔ Fully implemented Solidity Stablecoin  
-✔ Pegged to 1 USD  
-✔ Tokenomics + Gas optimization + Security patterns  
+✔ Full-stack blockchain-based voting platform with secure election workflows  
+✔ Implemented OTP-based authentication, vote management, and PostgreSQL database integration  
+✔ Built smart contracts using Solidity for vote integrity and duplicate-vote prevention  
+✔ Developed backend APIs and secure voting logic with focus on transparency and scalability  
 
 ---
 
