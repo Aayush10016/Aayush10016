@@ -3,12 +3,12 @@
 
 <!-- ANIMATED TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Blockchain+Developer;Java+Developer;Web3+Enthusiast;Backend+Engineer;Always+Learning+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Blockchain+Developer;Java+Developer;Web3+Enthusiast;Backend+Engineer;Always+Learning">
 </p>
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 I'm a 3rd-year B.Tech Computer Science student at VIT Bhopal specializing in **Blockchain Development, Java Programming, and Backend Engineering**.  
 I enjoy building secure systems, smart contracts, and efficient backend solutions.
 
@@ -67,7 +67,7 @@ I enjoy building secure systems, smart contracts, and efficient backend solution
 
 ## 🔥 Currently Working On
 
-- 🪙 **SWAT Coin — USD-Pegged Stablecoin**  
+- 🎧 **Hip-Hop-Hub - Java based Indian Hip-Hop website** 
 - 🗳️ **Janadesh — Blockchain-Based Voting System**  
 - 📚 **Java DSA + Backend Projects**
 
