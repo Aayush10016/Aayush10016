@@ -9,7 +9,7 @@
 ---
 
 ##  About Me  
-I'm a 3rd-year B.Tech Computer Science student at VIT Bhopal specializing in **Blockchain Development, Java Programming, and Backend Engineering**.  
+I'm a 4th-year B.Tech Computer Science student at VIT Bhopal specializing in **Blockchain Development, Java Programming, and Backend Engineering**.  
 I enjoy building secure systems, smart contracts, and efficient backend solutions.
 
 - 🔭 Currently working on **SWAT Coin (Stablecoin)** & **Janadesh (Blockchain Voting System)**  
