@@ -3,7 +3,7 @@
 
 <!-- ANIMATED TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Blockchain+Developer;Java+Developer;Web3+Enthusiast;Backend+Engineer;Always+Learning">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Java+Developer;Web3+Enthusiast;Backend+Engineer;Blockchain+Developer;">
 </p>
 
 ---
@@ -12,8 +12,8 @@
 I'm a 4th-year B.Tech Computer Science student at VIT specializing in **Java Programming, Blockchain Development and Backend Engineering**.  
 I enjoy building secure systems, smart contracts, and efficient backend solutions.
 
-- 🔭 Currently working on **SWAT Coin (Stablecoin)** & **Janadesh (Blockchain Voting System)**  
-- 💬 Ask me about: **Solidity, Java, Python, SQL, Web3.js, Hardhat**  
+- 🔭 Currently working on **Trail(AI Problem Memory Assistant)** 
+- 💬 Ask me about: **Java, Python, SQL, Web3.js, Hardhat, Solidity**  
 - 🚧 Strengthening **DSA in Java**  
 - 📫 Contact me at: **aayushtiwari1001@gmail.com**
 
