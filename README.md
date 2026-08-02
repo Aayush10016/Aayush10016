@@ -1,118 +1,160 @@
-<!-- TITLE SECTION -->
+<!-- ====================================================== -->
+<!--                     HEADER                             -->
+<!-- ====================================================== -->
+
 <h1 align="center">Hi 👋, I'm Aayush Tiwari</h1>
 
-<!-- ANIMATED TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Java+Developer;Web3+Enthusiast;Backend+Engineer;Blockchain+Developer;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Backend+Engineer;Java+%7C+Spring+Boot;Building+Trail+%E2%80%94+Developer+Memory+Assistant;Distributed+Systems+Enthusiast;Always+Building+Something+New" />
 </p>
 
 ---
 
-## About Me
+# 👨‍💻 About Me
 
-I'm a 4th-year B.Tech Computer Science student at VIT specializing in **Java Programming, Blockchain Development and Backend Engineering**.
+I'm a **4th-year B.Tech Computer Science student** passionate about **Backend Engineering, Java and Distributed Systems**.
 
-I enjoy building secure systems, smart contracts, and efficient backend solutions.
+I enjoy building software that solves real problems rather than simply learning new technologies.
 
-- 🔭 Currently working on **Trail (AI Problem Memory Assistant)**
-- 💬 Ask me about: **Java, Python, SQL, Web3.js, Hardhat, Solidity**
-- 🚧 Strengthening **DSA in Java**
-- 📫 Contact me at: **aayushtiwari1001@gmail.com**
+Currently I'm building **Trail**, a developer memory assistant that helps developers remember **why** they wrote code—not just **what** they wrote.
+
+- 🚀 Currently building **Trail — AI Developer Memory Assistant**
+- ☕ Backend Engineering with **Java & Spring Boot**
+- 🧠 Learning **Distributed Systems & System Design**
+- 📚 Solving DSA in Java
+- 📫 Reach me at **aayushtiwari1001@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠 Tech Stack
 
 ### Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-### Blockchain & Backend
+### Backend & Databases
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hardhat-FCC624?style=for-the-badge&logo=ethereum&logoColor=black" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### Databases & Tools
+### Blockchain & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hardhat-FCC624?style=for-the-badge&logo=ethereum&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aayush10016&theme=github_dark" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aayush10016&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Aayush10016&theme=transparent&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush10016&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush10016&theme=github_dark" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aayush10016&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aayush10016&theme=github_dark" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush10016&theme=github-compact&hide_border=true"/>
 
----
-
-## 🔥 Currently Working On
-
-- 🎧 **Hip-Hop-Hub – Java based Indian Hip-Hop website**
-- 🗳️ **Janadesh — Blockchain-Based Voting System**
-- 📚 **Java DSA + Backend Projects**
-
----
-
-## 💼 Featured Projects
-
-### 🎧 HipHopHub — Indian Hip-Hop Discovery Platform
-
-🔗 **Repo:** https://github.com/Aayush10016/HipHopHub
-
-🌐 **Live:** https://hip-hop-hub.vercel.app
-
-- ✔ Full-stack Java-based Indian Hip-Hop platform built using React, TypeScript, Spring Boot, and SQL
-- ✔ Features artist discovery, song browsing, release tracking, hip-hop facts, and interactive music-based games
-- ✔ Developed REST APIs, optimized backend performance, and improved artist-song data accuracy
-- ✔ Includes leaderboards, dynamic artist pages, and responsive UI/UX design
-
----
-
-### 🗳️ Janadesh — Blockchain-Based Voting System
-
-🔗 **Repo:** https://github.com/Aayush10016/Janadesh
-
-- ✔ Full-stack blockchain-based voting platform with secure election workflows
-- ✔ Implemented OTP-based authentication, vote management, and PostgreSQL database integration
-- ✔ Built smart contracts using Solidity for vote integrity and duplicate-vote prevention
-- ✔ Developed backend APIs and secure voting logic with focus on transparency and scalability
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aayush-tiwari-048558347/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:aayushtiwari1001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-⭐ **Thanks for visiting my GitHub!**
+# 🚀 Featured Projects
+
+## 🚀 Trail — AI Developer Memory Assistant
+
+**Repository:** https://github.com/Aayush10016/Trail
+
+Building a developer memory assistant that captures development context and makes it searchable using semantic search.
+
+**Highlights**
+
+- AI-powered context retrieval
+- Spring Boot backend
+- PostgreSQL + Vector Search
+- Performance-focused search pipeline
+- Browser extension integration
+
+---
+
+## 🎧 HipHopHub — Indian Hip-Hop Discovery Platform
+
+**Repository:** https://github.com/Aayush10016/HipHopHub
+
+**Live:** https://hip-hop-hub.vercel.app
+
+- Full-stack Java application built with Spring Boot & React
+- Artist discovery and release tracking
+- REST APIs with optimized backend performance
+- Interactive music-based games and leaderboards
+- Responsive UI/UX
+
+---
+
+## 🗳️ Janadesh — Blockchain Voting Platform
+
+**Repository:** https://github.com/Aayush10016/Janadesh
+
+- Blockchain-based voting platform
+- Solidity smart contracts
+- Spring Boot backend
+- PostgreSQL integration
+- OTP authentication
+- Secure election workflow
+
+---
+
+# 🧠 Currently Exploring
+
+- Distributed Systems
+- Apache Kafka
+- System Design
+- Cloud Native Java
+- AI Developer Tools
+
+---
+
+# 🔗 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aayush-tiwari-048558347/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aayushtiwari1001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-aayush-tiwari.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my GitHub!
+
+*"I build software because some problems refuse to leave my mind until they're solved."*
+
+</div>
