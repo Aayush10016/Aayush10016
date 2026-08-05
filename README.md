@@ -3,14 +3,14 @@
 
 <!-- ANIMATED TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Java+Developer;Web3+Enthusiast;Backend+Engineer;Blockchain+Developer;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Java+Developer;;Backend+Engineer;Blockchain+Developer;">
 </p>
 
 ---
 
 ## About Me
 
-I'm a 4th-year B.Tech Computer Science student at VIT specializing in **Java Programming, Blockchain Development and Backend Engineering**.
+I'm a 4th-year B.Tech Computer Science student at VIT specializing in **Java Programming, Backend Engineering and Blockchain Development**.
 
 I enjoy building secure systems, smart contracts, and efficient backend solutions.
 
