@@ -14,7 +14,7 @@ I'm a 4th-year B.Tech Computer Science student at VIT specializing in **Java Pro
 
 I enjoy building secure systems, smart contracts, and efficient backend solutions.
 
-- 🔭 Currently working on **Trail (AI Problem Memory Assistant)**
+- 🔭 Currently working on **WayMark (AI Problem Memory Assistant)**
 - 💬 Ask me about: **Java, Python, SQL, Web3.js, Hardhat, Solidity**
 - 🚧 Strengthening **DSA in Java**
 - 📫 Contact me at: **aayushtiwari1001@gmail.com**
